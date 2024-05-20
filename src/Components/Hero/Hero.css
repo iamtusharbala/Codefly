@@ -1,0 +1,25 @@
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    /* Make the hero section take full viewport height */
+    /* Optional: Add some padding if needed */
+    padding: 20px;
+}
+
+.container {
+    width: 100%;
+}
+
+.main-hero {
+    display: flex;
+    align-items: center;
+    /* Center vertically */
+    justify-content: center;
+    /* Center horizontally */
+}
+
+.btn {
+    margin: 0 1rem 0 0;
+}

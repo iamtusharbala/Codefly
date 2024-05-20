@@ -1,0 +1,9 @@
+.features {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    /* Make the hero section take full viewport height */
+    /* Optional: Add some padding if needed */
+    padding: 20px;
+}
